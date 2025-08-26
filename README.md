@@ -1,6 +1,6 @@
 ![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s495_iinwOggUZB2sYiMwpOhhFJILHHiLHUfTC8TWmXV2_logo_21.jpg)
 
-# PDFCombiner: Fast, simple and efficient PDF combining focused on accuracy
+# PDFCombiner: Fast, simple and efficient PDF combining focused on accuracy by Steve Choy
 
 #### Use app online: __[www.shinyappstore.com/a/ggPubPlot](https://shinyappstore.com/a/PDFCombiner)__
 
